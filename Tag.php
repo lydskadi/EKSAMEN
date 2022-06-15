@@ -1,4 +1,5 @@
 <?php
+require_once 'iTag.php';
 	class Tag implements iTag
 	{
 		private $name;
@@ -138,4 +139,3 @@
 	
 } 
 ?>
-
